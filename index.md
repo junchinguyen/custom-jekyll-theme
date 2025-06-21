@@ -1,4 +1,6 @@
 ---
+title: Home
 ---
 
-# tonic-starter
+# tropica
+*Tropica* is a tropical-flavoured custom Jekyll theme.
