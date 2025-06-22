@@ -1,5 +1,5 @@
-title: tropica
-description: "A tropical-flavoured custom Jekyll theme."
+title: tangerines
+description: "A nostalgic Jekyll theme inspired by life's tender moments."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
